@@ -7,7 +7,7 @@ I searched on the internet for some fill-in-the-blanks generators but they were 
 <br><br>
 
 
-In French, we have a saying : *"On n'est jamais mieux servi que par soi-même"* which can be translated as "You are never as well served as when you serve yourself'.
+In French, we have a saying : *"On n'est jamais mieux servi que par soi-même"* which can be translated as *"You are never as well served as when you serve yourself"*.
 **I decided that I would make my own fill-in-the-blank generator.** Here's the features I wanted.
 
 - Ability to copy-paste from a source
@@ -36,4 +36,7 @@ I used the font Capriola-Regular, which is free for personal use. <br>
 <br><br>
 
 
-I know have a wotking fill-in-the-blank generator, that I use when studying. **I use it especially when I need to make sure that I understand a concept and that it is well memorised**. I really appreciate the feature of being able to choose how much of the words are hidden as it allows me to choose the difficulty depending on what stage of studying I'm at. If you have ideas for other features, let me know ! I hope you enjoy the software !
+I know have a wotking fill-in-the-blank generator, that I use when studying. **I use it especially when I need to make sure that I understand a concept and that it is well memorised**. I really appreciate the feature of being able to choose how much of the words are hidden as it allows me to choose the difficulty depending on what stage of studying I'm at. If you have ideas for other features, let me know ! I hope you enjoy the software ! <br>
+
+**Language** <br><br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
