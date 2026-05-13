@@ -1,5 +1,7 @@
 # Fill-in-the-blank-generator
 
+![image](https://img.shields.io/badge/CC0--1.0-lightgrey?style=for-the-badge)
+
 **I needed to memorise a text by heart, but I didn't feel like repeating over and over everytime,** and wanted to switch study methods for something new. <br>
 I realised that using fill in the blanks exercises would be a good way to test my knowledge and understanding of the said text. <br>
 I also wanted the difficulty of the exercise to increase progressively, few blanks at the start, and few words at the end of the study session. <br>
