@@ -38,7 +38,7 @@ I used the font Capriola-Regular, which is free for personal use. <br>
 <br><br>
 
 
-I know have a wotking fill-in-the-blank generator, that I use when studying. **I use it especially when I need to make sure that I understand a concept and that it is well memorised**. I really appreciate the feature of being able to choose how much of the words are hidden as it allows me to choose the difficulty depending on what stage of studying I'm at. If you have ideas for other features, let me know ! I hope you enjoy the software ! <br>
+I know have a working fill-in-the-blank generator, that I use when studying. **I use it especially when I need to make sure that I understand a concept and that it is well memorised**. I really appreciate the feature of being able to choose how much of the words are hidden as it allows me to choose the difficulty depending on what stage of studying I'm at. If you have ideas for other features, let me know ! I hope you enjoy the software ! <br>
 
 **Language** <br><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
